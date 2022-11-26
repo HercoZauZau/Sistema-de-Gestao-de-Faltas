@@ -1,5 +1,5 @@
-# Sistema-de-Gestao-de-Faltas
-Sistema de gestao de faltas com CRUD feito em Pascal como trabalho semestral.
+# Sistema-de-Gestão-de-Faltas
+Sistema de gestão de faltas com CRUD feito em Pascal como trabalho semestral.
 
 ##
 

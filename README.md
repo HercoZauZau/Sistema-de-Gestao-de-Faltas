@@ -1,5 +1,7 @@
 # Sistema-de-Gestão-de-Faltas
-Sistema de gestão de faltas com CRUD feito em Pascal como trabalho semestral.
+Sistema de gestão de faltas e notas de alunos.
+
+Trabalho semestral para a cadeira de Introdução á Informática, feito com CRUD usando a linguagem Pascal.
 
 ##
 
